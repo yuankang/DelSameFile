@@ -1,3 +1,23 @@
+/*
+10.63
+./DelSameFile -f /Volumes/CF2TSSD1/PicTmp2 &> CF2TSSD1_PicTmp2.log
+./DelSameFile -f /Volumes/CF2TSSD1/PicTmp1 &> CF2TSSD1_PicTmp1.log
+./DelSameFile -f /Volumes/CF2TSSD1/VideoJp &> CF2TSSD1_VideoJp.log
+./DelSameFile -f /Volumes/CF2TSSD1/VideoTmp &> CF2TSSD1_VideoTmp.log
+local
+./DelSameFile -f /Users/yuankang/Movies/pic &> local_pic.log
+./DelSameFile -f /Users/yuankang/Movies/222 &> local_222.log 691.5
+10.97
+./DelSameFile -f /Volumes/WD1TSSD/VideoTmp &> WD1TSSD_VideoTmp.log
+./DelSameFile -f /Volumes/WD1TSSD/PicTmp &> WD1TSSD_PicTmp.log
+20.76
+./DelSameFile -f /Volumes/WD1T/VideoTmp1 &> WD1T_VideoTmp1.log
+./DelSameFile -f /Volumes/WD1T/VideoTmp2 &> WD1T_VideoTmp2.log
+11.75
+./DelSameFile -f /Volumes/WD2T/VideoBig &> WD2T_VideoBig.log
+./DelSameFile -f /Volumes/WD2T/VideoSmall &> WD2T_VideoSmall.log
+./DelSameFile -f /Volumes/WD2T/VideoTmp &> WD2T_VideoTmp.log
+*/
 package main
 
 import (
